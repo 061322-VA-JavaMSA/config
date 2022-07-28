@@ -17,5 +17,6 @@ spring:
   h2:
     console:
       enabled: true
-     
+
+message: 'Hello World from Github!'
     
