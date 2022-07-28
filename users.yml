@@ -18,5 +18,10 @@ spring:
     console:
       enabled: true
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
 message: 'Hello World from Github x2!'
     
