@@ -18,5 +18,5 @@ spring:
     console:
       enabled: true
 
-message: 'Hello World from Github!'
+message: 'Hello World from Github x2!'
     
